@@ -12,4 +12,4 @@ Write decentralized applications for Wavelet in Rust.
 ## Tutorials
 
 - [Build A Decentralized Chat Using JavaScript & Rust (WebAssembly)](https://medium.com/perlin-network/build-a-decentralized-chat-using-javascript-rust-webassembly-c775f8484b52)
-- [Build a Decentralized Todo App Using Vue.js & Rust (WebAssembly) via Wavelet](https://medium.com/@jjmace01/build-a-decentralized-todo-app-using-vue-js-rust-webassembly-5381a1895beb)
+- [Build a Decentralized Todo App Using Vue.js & Rust (WebAssembly) via Wavelet](https://medium.com/@jjmace01/build-a-decentralized-todo-app-using-vue-js-rust-webassembly-5381a1895beb) 
